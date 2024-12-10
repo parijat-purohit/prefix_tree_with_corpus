@@ -2,6 +2,7 @@
 A reliable spellchecker and autocomplete system depends not just on the data structure, but on the corpus it relies on. While this project uses a Prefix Tree (Trie), the overall performance and accuracy are driven by the quality of the word corpus. For this implementation, I've used two sources of common English words:
 
 Source 1: https://github.com/SMenigat/thousand-most-common-words/tree/master
+
 Source 2: https://github.com/first20hours/google-10000-english/tree/master
 
 ## Key Features
